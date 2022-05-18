@@ -1,0 +1,45 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "omnisharp.loggingLevel": "warning",
+    "omnisharp.enableEditorConfigSupport": true,
+    "omnisharp.enableRoslynAnalyzers": true,
+  },
+  "extensions": {
+    "recommendations": [
+      "formulahendry.dotnet-test-explorer",
+      "hbenl.vscode-test-explorer",
+      "ms-dotnettools.csharp",
+      "ms-dotnettools.blazorwasm-companion",
+      "ms-mssql.mssql",
+      "k--kato.docomment",
+      "streetsidesoftware.code-spell-checker",
+      "ryanluker.vscode-coverage-gutters",
+      "editorconfig.editorconfig",
+      "rexebin.f12-open-file",
+      "donjayamanne.githistory",
+      "eamodio.gitlens",
+      "yzhang.markdown-all-in-one",
+      "davidanson.vscode-markdownlint",
+      "christian-kohler.path-intellisense",
+      "wayou.vscode-todo-highlight",
+      "gruntfuggly.todo-tree",
+      "shardulm94.trailing-spaces",
+      "pflannery.vscode-versionlens",
+      "visualstudioexptteam.vscodeintellicode",
+      "vscode-icons-team.vscode-icons"
+    ],
+    "unwantedRecommendations": [
+      "ms-azuretools.vscode-docker",
+      "ms-kubernetes-tools.vscode-kubernetes-tools",
+      "googlecloudtools.cloudcode",
+      "github.vscode-pull-request-github",
+      "mindaro.mindaro",
+      "felipecaputo.git-project-manager"
+    ]
+  }
+}
