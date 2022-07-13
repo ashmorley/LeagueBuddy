@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LeagueBuddy.Domain\LeagueBuddy.Domain.csproj" />
+    <ProjectReference Include="..\LeagueBuddy\LeagueBuddy.csproj" />
+  </ItemGroup>
+
 </Project>
