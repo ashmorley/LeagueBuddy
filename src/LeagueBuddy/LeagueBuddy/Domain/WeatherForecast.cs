@@ -1,4 +1,4 @@
-namespace LeagueBuddy.BlazorServer.Data
+namespace LeagueBuddy.Domain
 {
     public class WeatherForecast
     {
